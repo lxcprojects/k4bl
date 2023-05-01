@@ -1,1 +1,1 @@
-![Progress Summary Data Viz as of 2023-05-01](https://airtable.com/invite/l?inviteId=invJxvfknAEIwLibO&inviteToken=f5d53394b5f1f69eacdcef31b6b9b074a77c9a928ff238e7525b700a967da68a&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
+![Progress Summary Data Viz as of 2023-05-01](http://lxcprojects.org/k4bl/05-01-2023%20Progress%20Summary%20Data%20Viz%20Keywords.png)
