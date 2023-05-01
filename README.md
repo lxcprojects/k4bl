@@ -1,4 +1,4 @@
-!(https://lxcprojects.github.io/keywords/assets/figures/poultry+vendor.png)
+![The Flower Seller](https://lxcprojects.github.io/keywords/assets/figures/poultry+vendor.png)
 
 # Project Overview
 
