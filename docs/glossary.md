@@ -1,3 +1,5 @@
+![K4BL Summer Workshop Week 2022 at LHC](http://lxcprojects.org/k4bl/images/20220810_122531.jpg)
+
 # Glossary of Terminology Used Across the Project
 
 K4BL has developed a vocabulary for describing the research and workflow that centers Black life and is responsive to demands from descended and diasporic Black community to treat documents with individuals of African descent with an ethic of care.* At times, that means we have moved away from academic and editorial verbiage when describing the materials under our charge and our editorial process. As a team, we have made it a priority to be transparent with the Keywords Commuiity Circle about what the K4BL is and how we work. This has meant generating a shared vocabulary for how to discuss the topic, the documents, and our workflow. Below is a glossary of terms that are in common usage among team members and the members of the Keywords Community Circle.  
