@@ -1,6 +1,7 @@
-![The Flower Seller](https://lxcprojects.github.io/keywords/assets/figures/poultry+vendor.png)
-
 # Keywords for Black Louisiana 
+_Documentation and README for Keywords for Black Louisiana (K4BL) an NHPRC-funded project building a digital documentary edition of stories from slavery's archive_ 
+
+![The Flower Seller](https://lxcprojects.github.io/keywords/assets/figures/poultry+vendor.png)
 
 # Project Overview
 
