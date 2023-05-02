@@ -21,4 +21,4 @@ Beyond the core team, individuals lead or participate in K4BL based on a team st
 
 Keywords for Black Louisiana is a LifexCode: Digital Humanities Against Enclosure Project. For more about LifexCode: lifexcode.org
 
-![Keywords in LxC](http://lxcprojects.org/k4bl/images/lifexcode%20charts%202023-05-01.png)
+![Keywords in LxC]([http://lxcprojects.org/k4bl/images/lifexcode%20charts%202023-05-01.png)
