@@ -5,3 +5,4 @@ This project structure emerged over the course of the planning grant out of our 
 ![K4BL Team Structure, Spring 2023](http://lxcprojects.org/k4bl/images/keywords-team-sp2023.drawio.png)
 
 asdfa
+![Keywords SIT Visualization](http://lxcprojects.org/k4bl/images/keywords%20SIT%20Viz.png)
