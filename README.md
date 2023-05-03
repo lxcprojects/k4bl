@@ -17,6 +17,7 @@ Following the links below, you can learn more about the scope and goals of the p
 * [Glossary of Project Terminology](https://github.com/lxcprojects/k4bl/blob/main/docs/glossary.md)
 * [Progress Summary Data Visualization](https://github.com/lxcprojects/k4bl/blob/main/docs/k4blprogress.md)
 * [Sample Documents: Keywords Spring Brunch 2023](https://docs.google.com/document/d/1ipLynUzfU3NnlSGts4SyunmYOoJDh4EDtOQTWgvTyws/edit#heading=h.6x5n61tgzdpk)
+* [Black DH Statement](https://github.com/lxcprojects/kinshiplonging/blob/main/docs/k4blBlackDHstatement.md)
 * [Louisiana Student Social Studies Standards](https://www.louisianabelieves.com/docs/default-source/academic-curriculum/2022-k-12-louisiana-student-standards-for-social-studies.pdf?sfvrsn=df396518_4)
 * ["Housing the Louisiana Archive" a StoryMap created by Olivia Barnard, Associate French Editor and Doctoral Candidate, Department of History, Johns Hopkins University](https://storymaps.arcgis.com/stories/6bb1128e4df547479c55291ada8ea5f0)
 * [The Louisiana Colonial Document Digitization Project (LCDDP) at the Louisiana Historical Center and New Orleans Jazz Museum](http://lacolonialdocs.org/)
