@@ -24,7 +24,9 @@ Following the links below, you can learn more about the scope and goals of the p
 * ["Housing the Louisiana Archive" a StoryMap created by Olivia Barnard, Associate French Editor and Doctoral Candidate, Department of History, Johns Hopkins University](https://storymaps.arcgis.com/stories/6bb1128e4df547479c55291ada8ea5f0)
 * [The Louisiana Colonial Document Digitization Project (LCDDP) at the Louisiana Historical Center and New Orleans Jazz Museum](http://lacolonialdocs.org/)
 * [Working Bibliography](https://github.com/lxcprojects/kinshiplonging/blob/main/docs/bibliography.md)
-* [Sponsors](https://github.com/lxcprojects/k4bl/blob/main/docs/sponsors.md)
+* [Sponsors](https://github.com/lxcprojects/k4bl/blob/main/docs/sponsors.md)  
+
+_Image: The French Market-The Hen Trader, Scribner's Monthly (Nov.1873-Apr.1874), vol. VII, p. 147. (Copy in Special Collections Department, University of Virginia Library) via Slavery Images_
 
 ![NHPRC](http://lxcprojects.org/k4bl/images/nhprc-logo%202.png)
 
