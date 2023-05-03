@@ -24,3 +24,5 @@ Following the links below, you can learn more about the scope and goals of the p
 * ["Housing the Louisiana Archive" a StoryMap created by Olivia Barnard, Associate French Editor and Doctoral Candidate, Department of History, Johns Hopkins University](https://storymaps.arcgis.com/stories/6bb1128e4df547479c55291ada8ea5f0)
 * [The Louisiana Colonial Document Digitization Project (LCDDP) at the Louisiana Historical Center and New Orleans Jazz Museum](http://lacolonialdocs.org/)
 * [Working Bibliography](https://github.com/lxcprojects/kinshiplonging/blob/main/docs/bibliography.md)
+
+
