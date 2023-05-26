@@ -65,7 +65,7 @@ Christopher Newman (Howard University)
 
 **Spanish Transcription & Translation Team**  
 Amrish Nair (Johns Hopkins University)  
-Ashley Reynaga
+Ashley Reynaga (Dillard)  
 
 **Digital Team**
 Ellie Palazzolo
