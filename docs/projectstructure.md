@@ -22,3 +22,55 @@ Beyond the core team, individuals lead or participate in K4BL based on a team st
 Keywords for Black Louisiana is a LifexCode: Digital Humanities Against Enclosure Project. For more about LifexCode: [lifexcode.org](lifexcode.org)
 
 ![Keywords in LxC](http://lxcprojects.org/k4bl/images/keywords%20in%20lifexcode%20viz.png)
+
+# K4BL Team 
+_last update: 2023 May 26 | 09:06:45 _
+
+**Founding Director/Editor**  
+Jessica Marie Johnson (Johns Hopkins University)  
+
+**Managing Editor**  
+Guadalupe Garcia (Tulane University)  
+
+**Senior Research Editor**  
+Leila Blackbird (University of Chicago)  
+
+**Project Manager/Digital Curation Fellow**  
+Ellie Palazzolo (Johns Hopkins University)  
+
+**Project Manager/Community Engagement**  
+Chenise Calhoun (Tulane University)  
+  
+**Associate French Editors**  
+Olivia Barnard (Johns Hopkins University)  
+Chenise Calhoun (Tulane University  
+Maya Hogarth (Johns Hopkins University)  
+Eola Dance (Howard University)  
+
+**Associate Spanish Editors**  
+Christina Villarreal (University of Texas-El Paso)  
+Kaillee Coleman (Tulane University)  
+
+**Subject Matter Specialists**  
+Sophie White (University of Notre Dame)  
+Jean Hébrard (École des Hautes Études en Sciences Sociales)  
+
+**Community, Ethics & Accountability**  
+Laura Rosanne Adderley (Tulane)  
+Eva Baham (Dillard)  
+Wendy Gaudin (Xavier University in Louisiana)  
+
+**French Transcription & Translation Team**  
+Christopher Newman (Howard University)
+
+**Spanish Transcription & Translation Team**  
+Amrish Nair (Johns Hopkins University)  
+
+**Sustaining Infrastructure and Technology (SIT)**  
+Margaret Burri (Sheridan Libraries)
+Ellie Palazzolo (Johns Hopkins University)
+Bill Branan (Sheridan Libraries)
+John Abrahams (Sheridan Libraries)
+Alex Gil (Yale University)
+
+
