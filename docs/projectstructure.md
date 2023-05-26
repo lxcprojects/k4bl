@@ -65,6 +65,13 @@ Christopher Newman (Howard University)
 
 **Spanish Transcription & Translation Team**  
 Amrish Nair (Johns Hopkins University)  
+Ashley Reynaga
+
+**Digital Team**
+Ellie Palazzolo
+Chenise Calhoun
+Jamya Davis
+Alex Gil
 
 **Sustaining Infrastructure and Technology (SIT)**  
 Margaret Burri (Sheridan Libraries)  
