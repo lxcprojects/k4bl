@@ -67,10 +67,10 @@ Christopher Newman (Howard University)
 Amrish Nair (Johns Hopkins University)  
 
 **Sustaining Infrastructure and Technology (SIT)**  
-Margaret Burri (Sheridan Libraries)
-Ellie Palazzolo (Johns Hopkins University)
-Bill Branan (Sheridan Libraries)
-John Abrahams (Sheridan Libraries)
-Alex Gil (Yale University)
+Margaret Burri (Sheridan Libraries)  
+Ellie Palazzolo (Johns Hopkins University)  
+Bill Branan (Sheridan Libraries)  
+John Abrahams (Sheridan Libraries)  
+Alex Gil (Yale University)  
 
 
