@@ -5,97 +5,111 @@
 
 We define keywords as the simplest encapsulation of a topic that we have identified as salient to Black life in the colonial archive.  We use keywords to “designate collective thoughts, ideas, arguments, and experiences that might otherwise stand alone or be quickly subsumed” within the milieu of documentation in slavery’s archive. In digital form, keywords, like hashtags, also create “a searchable shortcut that can link people and ideas together.” (see Sarah J. Jackson et al., #HashtagActivism: Networks of Race and Gender Justice (Cambridge: The MIT Press, 2020))
 
-1.	abuse
-2.	army
-3.	auction
-4.	boyhood
-5.	burial
-6.	care
-7.	Catholicism 
-8.	Charity Hospital
-9.	childhood
-10.	cimarron
-11.	coartación
-12.	Code Noir
-13.	collaboration
-14.	communication
-15.	conspiracy
-16.	contract labor
-17.	crime & punishment
-18.	death
-19.	debt
-20.	disability
-21.	displacement
-22.	domestic labor
-23.	emancipation
-24.	estate
-25.	exchange
-26.	family
-27.	fatherhood
-28.	free people of color
-29.	freedom
-30.	freedom papers
-31.	freedom suit
-32.	fugitivity
-33.	funeral
-34.	fungibility
-35.	girlhood
-36.	health
-37.	hiring out
-38.	illness
-39.	imprisonment
-40.	income
-41.	Indian slavery
-42.	Indian wars
-43.	Indigenous peoples
-44.	inheritance
-45.	kinship
-46.	labor
-47.	law
-48.	lease
-49.	legalism
-50.	love
-51.	manumission
-52.	maritime
-53.	marriage
-54.	marronage
-55.	medicine
-56.	mestizaje
-57.	metissage
-58.	military
-59.	military service
-60.	mixed-race
-61.	mobility
-62.	motherhood
-63.	murder
-64.	nation
-65.	payment
-66.	play
-67.	race
-68.	religion
-69.	relocation
-70.	rental
-71.	resistance
-72.	rival geography
-73.	sale
-74.	seizure
-75.	self-purchase
-76.	sickness
-77.	skilled labor
-78.	slave auction
-79.	slave inventory
-80.	succession
-81.	survival
-82.	tenancy
-83.	trade
-84.	trade work
-85.	transportation
-86.	truancy
-87.	tutelage
-88.	valuation
-89.	violence
-90.	war
-91.	wellness
-92.	witness
-93.	womanhood
-94.	work
+1.	tutelage
+2.	estate
+3.	slave inventory
+4.	succession
+5.	Indian slavery
+6.	manumission
+7.	relocation
+8.	inheritance
+9.	legalism
+10.	transportation
+11.	kinship
+12.	freedom suit
+13.	mixed-race
+14.	race
+15.	Afro-Indigeneity
+16.	resistance
+17.	womanhood
+18.	childhood
+19.	lease
+20.	sale
+21.	fungibility
+22.	exchange
+23.	law
+24.	girlhood
+25.	military
+26.	displacement
+27.	crime & punishment
+28.	witness
+29.	contract labor
+30.	freedom
+31.	motherhood
+32.	domestic labor
+33.	payment
+34.	mobility
+35.	maritime
+36.	fugitivity
+37.	collaboration
+38.	conspiracy
+39.	survival
+40.	marronage
+41.	nation
+42.	valuation
+43.	family
+44.	seizure
+45.	violence
+46.	murder
+47.	religion
+48.	emancipation
+49.	self-purchase
+50.	coartación
+51.	disability
+52.	tenancy
+53.	mestizaje
+54.	metissage
+55.	abuse
+56.	truancy
+57.	rival geography
+58.	military service
+59.	labor
+60.	burial
+61.	funeral
+62.	rental
+63.	income
+64.	freedom papers
+65.	trade
+66.	work
+67.	illness
+68.	death
+69.	hiring out
+70.	Catholicism
+71.	Indigenous peoples
+72.	boyhood
+73.	debt
+74.	Charity Hospital
+75.	health
+76.	wellness
+77.	war
+78.	army
+79.	cimarron
+80.	imprisonment
+81.	marriage
+82.	auction
+83.	slave auction
+84.	medicine
+85.	sickness
+86.	care
+87.	Indian wars
+88.	fatherhood
+89.	trade work
+90.	skilled labor
+91.	communication
+92.	love
+93.	Middle Passage
+94.	cattle
+95.	free people of color
+96.	Caribbean
+97.	play
+98.	material culture
+99.	foodways
+100.	Africa
+101.	culture
+102.	Code Noir
+103.	la traversée
+104.	music
+105.	song
+106.	translator
+107.	Natchez Uprising
+
