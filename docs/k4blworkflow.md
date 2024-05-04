@@ -31,7 +31,7 @@ Documents without clear or ambiguous references to Black people are added to the
 After identifying documents to add to the Bias Set, the Document Selectors are responsible for:  
 
 * entering metadata on the documents into the Bias Set. This information includes drafting keywords, titles and abstracts that describe the experiences of Black life in the manuscript material.  
-* downloading page image files from the LCDDP to Keywords storage on Dropbox
+* downloading page image files from the LCDDP to Keywords storage on Dropbox (Digital Assistants for Editorial Markup may assist)
 
 ### From Bias Set to Transcriptions/Translations (_Selection, Arrangements, Transcription, Annotations, Encoding & Metadata Creation_) 
 
