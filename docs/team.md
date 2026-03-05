@@ -6,38 +6,34 @@ Jessica Marie Johnson (Johns Hopkins University)
 **Managing Editor**  
 Guadalupe Garcia (Tulane University)  
 
-**Senior Research Editor**  
-Leila Blackbird (University of Chicago)  
-
 **Project Manager/Digital Curation Fellow**  
-Ellie Palazzolo (Johns Hopkins University)  
+Zaria El-Fil (University of Chicago)  
 
 **Project Manager/Community Engagement**  
-Chenise Calhoun (Tulane University)  
+Cyntoya McCall (Tulane University)  
   
-**Associate French Editors**  
-Olivia Barnard (Johns Hopkins University)  
-Chenise Calhoun (Tulane University  
-Maya Hogarth (Johns Hopkins University)  
-Eola Dance (Howard University)  
+**Assistant French Editors**  
+Daija Yisrael (Georgetown University)  
 
-**Associate Spanish Editors**  
-Christina Villarreal (University of Texas-El Paso)  
+**Associate Spanish Editors**   
 Kaillee Coleman (Tulane University)  
 
 **Subject Matter Specialists**  
 Sophie White (University of Notre Dame)  
 Jean Hébrard (École des Hautes Études en Sciences Sociales)  
+Jennifer Spear (Simon Fraser University)  
+Lissette Acosta (CUNY)
+Melanie LaMotte (Duke University)
 
 **Community, Ethics & Accountability**  
 Laura Rosanne Adderley (Tulane)  
 Eva Baham (Dillard)  
 Wendy Gaudin (Xavier University in Louisiana)  
-
-**French Transcription & Translation Team**  
-
-**Spanish Transcription & Translation Team**  
-Amrish Nair (Johns Hopkins University)  
+Shearon Roberts (Xavier University in Louisiana)    
 
 **Sustaining Infrastructure and Technology**  
+Margaret Burri (Sheridan Libraries Research Librarian)
+Emily McGinn (Sheridan Libraries Digital Specialist)
+John Abrahams (Sheridan Libraries, Engineer)
+Jon Baynes (EINDVR)
 
