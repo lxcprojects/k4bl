@@ -9,8 +9,6 @@
 •	Baptist, Edward. The Half Has Never Been Told: Slavery and the Making of American Capitalism. New York: Basic Books, 2014.  
 •	Barthé, Darryl, Andrew Jolivétte, and Rain Prud’homme-Cranford, eds. Louisiana Creole Peoplehood: Afro-Indigeneity & Community. Seattle: University of Washington, 2022.  
 •	Becker, Cynthia J. “Confederate Soldiers, Voodoo Queens, and Black Indians: Monuments and Counter-Monuments in New Orleans.” De Arte 54, no. 2 (2019): 41-64.  
-•	Blackbird, Leila K. “Entwined Threads of Red and Black: The Hidden History of Indigenous Enslavement in Louisiana, 1699-1824.” MA Thesis, University of New Orleans, 2018. https://scholarworks.uno.edu/td/2559.  
-•	—, et al.  “Climates of Inequality – Standing Up on River Road: Activism in South Louisiana.” The Midlo Center for New Orleans Studies and Rutgers Humanities Action Lab. https://climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/.   
 •	Bolton, Herbert Eugene, ed. and trans. Athanase de Mézières and the Louisiana-Texas Frontier, 1768-1780. Cleveland: The Arthur H. Clark Company, 1914.  
 •	Brooks, James F. Captives and Cousins: Slavery, Kinship, and Community in the Southwest Borderlands. Chapel Hill: University of North Carolina, 2002.  
 •	Burton, Sophie and Todd Smith. “Slavery in the Colonial Louisiana Backcountry: Natchitoches, 1714-1803.” Louisiana History 52, no. 2 (2011): 133-88. https://www.jstor.org/stable/23074684.  
